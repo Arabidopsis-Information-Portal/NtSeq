@@ -1,5 +1,7 @@
 # NtSeq
 
+A fork of biojs-vis-sequence with build artifacts committed so we can consume it with bower.
+
 **NtSeq** is an open source Bioinformatics library written in JavaScript
 that provides DNA sequence manipulation and analysis tools for node and the
 browser.
