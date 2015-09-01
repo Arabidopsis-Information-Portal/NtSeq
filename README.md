@@ -1,3 +1,5 @@
+A fork of NtSeq for bower installation.
+
 # NtSeq
 
 **NtSeq** is an open source Bioinformatics library written in JavaScript
